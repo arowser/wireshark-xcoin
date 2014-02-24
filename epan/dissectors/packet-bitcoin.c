@@ -1035,12 +1035,20 @@ static msg_dissector_t msg_dissectors[] =
   {"verack",      dissect_bitcoin_msg_empty},
   {"getaddr",     dissect_bitcoin_msg_empty},
   {"ping",        dissect_bitcoin_msg_empty},
+  {"pong",        dissect_bitcoin_msg_empty},
 
   /* messages not implemented */
+  {"notfound",    dissect_bitcoin_msg_empty},
   {"headers",     dissect_bitcoin_msg_empty},
+  {"mempool",     dissect_bitcoin_msg_empty},
   {"checkorder",  dissect_bitcoin_msg_empty},
   {"submitorder", dissect_bitcoin_msg_empty},
   {"reply",       dissect_bitcoin_msg_empty},
+  {"filterload",  dissect_bitcoin_msg_empty},
+  {"filteradd",   dissect_bitcoin_msg_empty},
+  {"filterclear", dissect_bitcoin_msg_empty},
+  {"merkleblock", dissect_bitcoin_msg_empty},
+  {"reject",      dissect_bitcoin_msg_empty},
   {"alert",       dissect_bitcoin_msg_empty}
 };
 
