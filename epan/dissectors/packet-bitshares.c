@@ -1,7 +1,7 @@
 /* packet-bitshares.c
  * Routines for bitshares dissection
  * Copyright 2014, arowser <arowser@gmail.com>
- * BitShares address: 
+ * bitcoin address: 1JesArEyh7JCw7ZYeYf1JNZkVogBcWkj3w
  *
  * See https://en.bitshares.it/wiki/Protocol_specification
  *

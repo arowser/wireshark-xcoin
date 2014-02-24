@@ -1,7 +1,7 @@
 /* packet-litecoin.c
  * Routines for litcoin dissection
  * Copyright 2014, arowser <arowser@gmail.com>
- * Litecoin address: 
+ * bitcoin address: 1JesArEyh7JCw7ZYeYf1JNZkVogBcWkj3w
  *
  * See https://en.litecoin.it/wiki/Protocol_specification
  *
