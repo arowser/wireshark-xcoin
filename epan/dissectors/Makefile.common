@@ -320,6 +320,7 @@ DISSECTOR_SRC = \
 	packet-bgp.c		\
 	packet-bitcoin.c	\
 	packet-litecoin.c	\
+	packet-primecoin.c	\
 	packet-bitshares.c	\
 	packet-bittorrent.c	\
 	packet-bjnp.c		\
