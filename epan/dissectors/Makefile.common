@@ -321,6 +321,10 @@ DISSECTOR_SRC = \
 	packet-bitcoin.c	\
 	packet-litecoin.c	\
 	packet-primecoin.c	\
+	packet-ppcoin.c  	\
+	packet-namecoin.c  	\
+	packet-quarkcoin.c 	\
+	packet-dogecoin.c	\
 	packet-bitshares.c	\
 	packet-bittorrent.c	\
 	packet-bjnp.c		\
